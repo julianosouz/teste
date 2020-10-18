@@ -1,2 +1,1 @@
-# teste
-aula 1
+APREENDENDO PYTHON
